@@ -3,7 +3,6 @@ manifest
 ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
 INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
 INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
-INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8dc1c2f8efcfb2468832754cc63b2660\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2eaca4173007cf2dabd180880f129aab\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\613041b6d3b6734faafa30d15d837186\AndroidManifest.xml:17:1-22:12
@@ -17,16 +16,11 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\benra\.gradle\caches
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0229eb937b5b29997df3537120dfc8d5\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
 INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
-INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
 	package
 		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:2:5-56
 		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
-		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
-	android:versionCode
 		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
 		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
