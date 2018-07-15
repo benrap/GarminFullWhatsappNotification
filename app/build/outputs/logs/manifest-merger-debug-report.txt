@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8dc1c2f8efcfb2468832754cc63b2660\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2eaca4173007cf2dabd180880f129aab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\613041b6d3b6734faafa30d15d837186\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\201f73ad5f7be34ca8c4dcb336243a73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\65e2a5c3f952401bd5119fb8d44ed398\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b8beecd197c037e2eb5483a766474e1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1d74458e68a84a1cd2e10fdbe12d615f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4dbd0623d4f27a615bf8ae9e7002344f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ae4e9ce2005a43fea5296a6ef23e4480\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0579241b990c7423c5c6a95dab0cdef0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0229eb937b5b29997df3537120dfc8d5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+	package
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:2:5-56
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:1-22:12
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:4:5-20:19
+	android:supportsRtl
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:10:9-40
+meta-data#xposedmodule
+ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:12:13-40
+meta-data#xposeddescription
+ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:14:9-16:120
+	android:value
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:16:13-117
+	android:name
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:15:13-45
+meta-data#xposedminversion
+ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:17:9-19:34
+	android:value
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:19:13-31
+	android:name
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml:18:13-44
+uses-sdk
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8dc1c2f8efcfb2468832754cc63b2660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8dc1c2f8efcfb2468832754cc63b2660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2eaca4173007cf2dabd180880f129aab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2eaca4173007cf2dabd180880f129aab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\613041b6d3b6734faafa30d15d837186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\613041b6d3b6734faafa30d15d837186\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\201f73ad5f7be34ca8c4dcb336243a73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\201f73ad5f7be34ca8c4dcb336243a73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\65e2a5c3f952401bd5119fb8d44ed398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\65e2a5c3f952401bd5119fb8d44ed398\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b8beecd197c037e2eb5483a766474e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b8beecd197c037e2eb5483a766474e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1d74458e68a84a1cd2e10fdbe12d615f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1d74458e68a84a1cd2e10fdbe12d615f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4dbd0623d4f27a615bf8ae9e7002344f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4dbd0623d4f27a615bf8ae9e7002344f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ae4e9ce2005a43fea5296a6ef23e4480\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ae4e9ce2005a43fea5296a6ef23e4480\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0579241b990c7423c5c6a95dab0cdef0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0579241b990c7423c5c6a95dab0cdef0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0229eb937b5b29997df3537120dfc8d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\benra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0229eb937b5b29997df3537120dfc8d5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\benra\AndroidStudioProjects\GarminFullWhatsappNotification\app\src\main\AndroidManifest.xml
