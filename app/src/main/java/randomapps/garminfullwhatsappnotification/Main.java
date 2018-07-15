@@ -31,12 +31,7 @@ public class Main implements IXposedHookLoadPackage {
                     Notification notif = sbn.getNotification();
                     String content = extractContentFromWhatsappNotification(notif);
                     if (LOG) XposedBridge.log("got content:\n" + content);
-                    Notification replacementNotification = notif.clone();
-                    replacementNotification.extras.putString("android.text", content);
-
-                    StatusBarNotification replacementSbn = new StatusBarNotification(sbn.getPackageName(), sbn.getPackageName(), sbn.getId(), sbn.getTag(), sbn.getUserId(), 0, 0, replacementNotification, sbn.getUser(), sbn.getPostTime());
-
-                    param.args[0] = replacementSbn;
+                    notif.extras.putString("android.text", content);
                 }
             }
         });
