@@ -28,13 +28,30 @@ public class Main implements IXposedHookLoadPackage {
                 super.beforeHookedMethod(param);
                 StatusBarNotification sbn = (StatusBarNotification) param.args[0];
                 if (sbn.getPackageName().equals("com.whatsapp")) {
-                    Notification notif = sbn.getNotification();
-                    String content = extractContentFromWhatsappNotification(notif);
-                    if (LOG) XposedBridge.log("got content:\n" + content);
-                    notif.extras.putString("android.text", content);
+                    replaceNotificationContent(sbn);
+                    replaceNotificationTitle(sbn);
                 }
             }
         });
+    }
+
+    public void replaceNotificationTitle(StatusBarNotification sbn) {
+        String title = sbn.getNotification().extras.getString("android.title");
+        if (title.contains("(")) {
+            title = title.substring(0, title.lastIndexOf('('));
+        } else if (title.contains("@")) {
+            title = title.substring(0, title.lastIndexOf("@"));
+        } else if (title.contains(":")) {
+            title = title.substring(0, title.lastIndexOf(":"));
+        }
+        sbn.getNotification().extras.putString("android.title", title);
+    }
+
+    private void replaceNotificationContent(StatusBarNotification sbn) {
+        Notification notif = sbn.getNotification();
+        String content = extractContentFromWhatsappNotification(notif);
+        if (LOG) XposedBridge.log("got content:\n" + content);
+        notif.extras.putString("android.text", content);
     }
 
     private String extractContentFromWhatsappNotification(Notification notif) {
