@@ -40,7 +40,7 @@ public class Main implements IXposedHookLoadPackage {
         if (title.contains("(")) {
             title = title.substring(0, title.lastIndexOf('('));
         } else if (title.contains("@")) {
-            title = title.substring(0, title.lastIndexOf("@"));
+            title = title.substring(title.lastIndexOf("@") + 1, title.length());
         } else if (title.contains(":")) {
             title = title.substring(0, title.lastIndexOf(":"));
         }

@@ -13,7 +13,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="makes garmin devices view full whatsapp notifications instead of just the latest message" />
+            android:value="Makes garmin devices view full Whatsapp notifications instead of just the latest message" />
         <meta-data
             android:name="xposedminversion"
             android:value="82" />
